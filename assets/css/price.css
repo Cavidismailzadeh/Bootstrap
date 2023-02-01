@@ -1,0 +1,104 @@
+
+
+.shoes-text{
+    text-align: center;
+    justify-content: center;
+    opacity: 0.5;
+}
+
+.shoes-title{
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.card-main img{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 290px;
+    background-color: white;
+}
+
+
+.shoes-cost{
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+
+.card-body ul{
+    display: flex;
+}
+
+.card-body ul li{
+    list-style: none;
+    font-size: 25px;
+    padding-left: 10px;
+}
+
+.card-body ul li .stars1{
+     color: orange;
+}
+
+.button1{
+    height: 60px;
+    width: auto;
+    background-color: rgba(0, 142, 185, 0.719);
+    border: none;
+    font-size: 25px;
+    color: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+
+.button2{
+    height: 60px;
+    width: auto;
+    background-color: rgba(117, 0, 185, 0.719);
+    border: none;
+    font-size: 25px;
+    color: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+
+.button3{
+    height: 60px;
+    width: auto;
+    background-color: rgba(0, 0, 0, 0.719);
+    border: none;
+    font-size: 25px;
+    color: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+
+.button4{
+    height: 60px;
+    width: auto;
+    background-color: orange;
+    border: none;
+    font-size: 25px;
+    color: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+
+.card-main{
+    transition: 0.5s;
+    margin-top: 100px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.card-main:hover{
+    background-color: rgb(125, 255, 65);
+}
+
